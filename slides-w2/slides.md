@@ -392,3 +392,6 @@ let s3: Rc<String> = s.clone();
 `.clone()` on an `Rc` creates a new reference and increments the reference count
 
 The value is dropped when the last reference to it goes out of scope
+
+---
+
