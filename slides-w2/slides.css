@@ -1,0 +1,14 @@
+.reveal .slides > section { text-align:left; }
+.reveal .slides > section h1 { text-align:center; }
+.reveal pre { font-size: 0.8em; width: 95% }
+.reveal h1 { font-size: 2em; }
+/* .reveal code { font-size: 0.8em; } */
+
+.reveal section img {
+    margin: 0;
+    background: none;
+    border: 0;
+    box-shadow: none;
+
+
+}
